@@ -1,3 +1,13 @@
+Hola 4Geeks Teacher!!
+
+He creado este Post Card y espero que te guste.
+
+El Post Card está divido en 3 divs principales, un post header, post-body y un post-footer. A partir de ahí ada div tiene su sub-div para ir jugando con CSS y el atributo display flex para que se alinien los diferentes sub-divs. Además, se ha añadido un input para introducir datos básicos y un boton de enviar.
+
+Gracias!
+
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
